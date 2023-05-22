@@ -8,7 +8,10 @@
     padding: 0;
     margin: 0;
     background-color: indianred;
-    background-image: url(Images/Lobby.jpg); background-size: cover; background-repeat: no-repeat;
+    background-image: url(../Images/Lobby.jpg); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: bottom;
 }
 .navbar{
     width: 100%;
